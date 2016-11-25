@@ -2,7 +2,7 @@ hu = [800,900,1000];
 lr = (0.1);
 bs = [100,200];
 ep = (250);
-mo = (0);
+mo = (0.);
 wp = (0);
 dp = (0);
 [bestError, error_matrix, bestR, bestH, bestL,...
